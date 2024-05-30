@@ -1,10 +1,10 @@
 # PhD Student
 
+#### Programming Languages: Python, R, MATLAB
+
 ### Education
 
 - PhD | XXX (_May 2022_)
-- BS-MS (Biology) | XXX (_May 2022_)
-- PhD | Indian Institute of Science Education and Research, Pune (_2019-2024_)
 - BS-MS (Biology) | Indian Institute of Science Education and Research, Pune (_2019-2024_)
 
 <br/>
