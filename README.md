@@ -2,8 +2,9 @@
 
 ### Education
 
-- Ph.D., XXX | XXX (_May 2022_)
-- Integrated BS-MS Program (Biology) | Indian Institute of Science Education and Research, Pune (_2019-2024_)
+- PhD | XXX (_May 2022_)
+- BS-MS Program (Biology) | Indian Institute of Science Education and Research, Pune (_2019-2024_)
+<br/>
 
 ### Research Experience
 **Masters Student @ Sureshkumar Balasubramanian's Lab, Monash University (_May 2023 - April 2024_)**
