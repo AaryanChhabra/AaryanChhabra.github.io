@@ -1,4 +1,4 @@
-# PhD Student at Monash University
+# PhD Student
 
 ### Education
 Biology, BSMS
