@@ -22,5 +22,5 @@
 
 [google_scholar](https://scholar.google.com/citations?user=ikNtX5wAAAAJ&hl=en)
 
-[<img src="/Images/X-Logo.png" width="20" height="20">](https://x.com/Aaryan__Chhabra)
+[<img src="/Images/X-Logo.png" width="20" height="20">](https://x.com/Aaryan__Chhabra) | [<img src="/Images/Google_Scholar_logo.svg.png" width="20" height="20">](https://scholar.google.com/citations?user=ikNtX5wAAAAJ&hl=en)
 
