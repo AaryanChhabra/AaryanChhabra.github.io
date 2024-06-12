@@ -2,17 +2,18 @@
 
 ### Education
 
-- PhD | Monash University, Australia (_Aug 2024-Present_)
 - BS-MS (Biology) | Indian Institute of Science Education and Research, Pune (_2019-2024_)
 
 <br/>
 
 ### Research Experience
 **Masters Student @ Sureshkumar Balasubramanian's Lab, Monash University (_May 2023 - April 2024_)**
-- Worked on deciphering genomic determinants of tissue-specific splicing.
+- This project aimed to quantify splice site usage to identify tissue-specific splice sites to come up with motifs regulating it, map its genomic determinants.
+- [Publication](https://www.biorxiv.org/content/10.1101/2024.03.21.586179v1.abstract)
 
 **Undergraduate Researcher @ Dr Arthur Sherman, Laboratory of Biological Modeling, NIDDK, National Institutes of Health (NIH) (_Dec 2022 -  April 2023_)**
-- Metabolic Assessment for Diabetes Screening and Treatment - The project involved exploring models for assessing insulin sensitivity, beta-cell function and their product, disposition index. It included testing the suitability of various disposition indices for detecting pre-diabetes and diabetes and developing open-source software in Python.				 - 
+- Metabolic Assessment for Diabetes Screening and Treatment - The project involved exploring models for assessing insulin sensitivity, beta-cell function and their product, disposition index. It included testing the suitability of various disposition indices for detecting pre-diabetes and diabetes and developing open-source software in Python.
+- [Publication](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00189.2023)
 
 **Undergraduate Researcher @ Laboratory of Mathematical Medicine, IISER Pune., IISER Pune (_Aug 2022 -  Nov 2022_)**
 - A Step Towards Capturing Postprandial Hypoglycemic Dip in CGM Data - Involves reinvestigation of the model (using XPPAUT) described in the publication Goel et al., 2018 and an attempt to capture the postprandial hypoglycemic dip.
