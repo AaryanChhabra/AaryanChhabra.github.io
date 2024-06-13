@@ -1,7 +1,7 @@
 ### Education
 
-- BS-MS (Biology) | Indian Institute of Science Education and Research, Pune (_2019-2024_)
-
+BS-MS (Biology) | Indian Institute of Science Education and Research, Pune (_2019-2024_)
+  
 <br/>
 
 ### Research Experience
