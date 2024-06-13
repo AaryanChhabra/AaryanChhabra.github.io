@@ -1,10 +1,9 @@
-### Education
+## Education
 
 BS-MS (Biology) | Indian Institute of Science Education and Research, Pune (_2019-2024_)
-  
-<br/>
 
-### Research Experience
+
+## Research Experience
 **Masters Student @ Sureshkumar Balasubramanian's Lab, Monash University (_May 2023 - April 2024_)**
 - This project aimed to quantify splice site usage to identify tissue-specific splice sites to come up with motifs regulating it, map its genomic determinants.
 - [Publication](https://www.biorxiv.org/content/10.1101/2024.03.21.586179v1.abstract)
