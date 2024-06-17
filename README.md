@@ -5,7 +5,7 @@ BS-MS (Biology) | Indian Institute of Science Education and Research, Pune (_201
 
 ## Research Experience
 **Masters Student @ Sureshkumar Balasubramanian's Lab, Monash University (_May 2023 - April 2024_)**
-- This project aimed to quantify splice site usage to identify tissue-specific splice sites to come up with motifs regulating it, map its genomic determinants.
+- This project aimed to identify regulators of splice-site usage.
 - [Publication](https://www.biorxiv.org/content/10.1101/2024.03.21.586179v1.abstract)
 
 **Undergraduate Researcher @ Dr Arthur Sherman, Laboratory of Biological Modeling, NIDDK, National Institutes of Health (NIH) (_Dec 2022 -  April 2023_)**
