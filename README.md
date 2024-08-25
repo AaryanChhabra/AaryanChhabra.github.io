@@ -10,8 +10,8 @@ BS-MS (Biology) | Indian Institute of Science Education and Research, Pune (_201
 
 **Undergraduate Researcher @ Dr Arthur Sherman, Laboratory of Biological Modeling, NIDDK, National Institutes of Health (NIH) (_Dec 2022 -  April 2023_)**
 - Metabolic Assessment for Diabetes Screening and Treatment - The project involved exploring models for assessing insulin sensitivity, beta-cell function and their product, disposition index. It included testing the suitability of various disposition indices for detecting pre-diabetes and diabetes and developing open-source software in Python.
-- [Publication](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00189.2023)
-- [Publication](https://academic.oup.com/jcem/advance-article-abstract/doi/10.1210/clinem/dgae582/7738986?redirectedFrom=fulltext)
+- [Publication 1](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00189.2023)
+- [Publication 2](https://academic.oup.com/jcem/advance-article-abstract/doi/10.1210/clinem/dgae582/7738986?redirectedFrom=fulltext)
 
 **Undergraduate Researcher @ Laboratory of Mathematical Medicine, IISER Pune., IISER Pune (_Aug 2022 -  Nov 2022_)**
 - A Step Towards Capturing Postprandial Hypoglycemic Dip in CGM Data - Involves reinvestigation of the model (using XPPAUT) described in the publication Goel et al., 2018 and an attempt to capture the postprandial hypoglycemic dip.
