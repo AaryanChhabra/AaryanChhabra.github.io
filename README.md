@@ -28,8 +28,9 @@ BS-MS (Biology) | Indian Institute of Science Education and Research, Pune (_201
 
 ## Publications
 1. Ha, J., Chung, S. T., Springer, M., Kim, J. Y., Chen, P., Chhabra, A., ... & Sherman, A. S. (2024). Estimating insulin sensitivity and β-cell function from the oral glucose tolerance test: validation of a new insulin sensitivity and secretion (ISS) model. American Journal of Physiology-Endocrinology and Metabolism, 326(4), E454-E471.
-2. Dent, C. I., Prodic, S., Balakrishnan, A., Georges, J., Chhabra, A., Mukherjee, S., ... & Balasubramanian, S. (2024). A basic framework governing splice-site choice in eukaryotes. bioRxiv, 2024-03.
-3. Ha, J., Kim, J. Y., Springer, M., Chhabra, A., Chung, S. T., Sumner, A. E., ... & Arslanian, S. (2024). A Mathematical Model-Derived Disposition Index Without Insulin Validated in Youth with Obesity. The Journal of Clinical Endocrinology & Metabolism, dgae582.
+2. Ha, J., Kim, J. Y., Springer, M., Chhabra, A., Chung, S. T., Sumner, A. E., ... & Arslanian, S. (2024). A Mathematical Model-Derived Disposition Index Without Insulin Validated in Youth with Obesity. The Journal of Clinical Endocrinology & Metabolism, dgae582.
+3. Dent, C. I., Prodic, S., Balakrishnan, A., Georges, J., Chhabra, A., Mukherjee, S., ... & Balasubramanian, S. (2024). A basic framework governing splice-site choice in eukaryotes. bioRxiv, 2024-03.
+
 
 [<img src="/Images/X-Logo.png" width="20" height="20">](https://x.com/Aaryan__Chhabra) | [<img src="/Images/Google_Scholar_logo.svg.png" width="20" height="20">](https://scholar.google.com/citations?user=ikNtX5wAAAAJ&hl=en) | [<img src="/Images/LinkedIn_logo_initials.png" width="20" height="20">](https://www.linkedin.com/in/aaryan-chhabra-947ab6243/)
 
