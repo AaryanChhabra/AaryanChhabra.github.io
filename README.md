@@ -1,7 +1,7 @@
 ## Education
 
 BS-MS (Biology) | Indian Institute of Science Education and Research, Pune (_2019-2024_)
-PhD | Monash University, Clayton (_2024-Present_)
+PhD | School of Biological Sciences, Monash University, Clayton (_2024-Present_)
 
 
 ## Research Experience
