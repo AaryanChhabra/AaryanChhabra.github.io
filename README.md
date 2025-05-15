@@ -12,13 +12,13 @@ PhD | School of Biological Sciences, Monash University, Clayton (_2024-Present_)
 - Metabolic Assessment for Diabetes Screening and Treatment.
 
 **Undergraduate Researcher @ Laboratory of Mathematical Medicine, IISER Pune., IISER Pune (_Aug 2022 -  Nov 2022_)**
-- A Step Towards Capturing Postprandial Hypoglycemic Dip in CGM Data - Involves reinvestigation of the model (using XPPAUT) described in the publication Goel et al., 2018 and an attempt to capture the postprandial hypoglycemic dip.
+- A Step Towards Capturing Postprandial Hypoglycemic Dip in CGM Data.
 
 **Summer Intern @ Dr Utpal Nath's Lab, Department of Microbiology and Cell Biology, IISc Bangalore (_May 2022 -  Jul 2022_)**
-- Investigation of differentially spliced isoforms in the transcriptome of Arabidopsis thaliana mutants - Involves comparative analysis of splicing variant of mRNA in CIN-TCP mutant with respect to wild type during normal leaf development in Arabidopsis thaliana.
+- Investigation of differentially spliced isoforms in the transcriptome of Arabidopsis thaliana mutants.
  
 **Undergraduate Researcher @ The lab of Regeneration, IISER Pune (_Jan 2022 -  April 2022_)**
-- Screening regenerative processes in native plants upon mechanical injury - Involved exploring the leaf vascular regeneration in species with different leaf allometry in response to mechanical disconnection of the mid-vein of a leaf.
+- Screening regenerative processes in native plants upon mechanical injury.
 
 **Undergraduate Researcher @ Dr Deepak Barua's Lab, IISER Pune (_Aug 2021 - Nov 2021_)**
 - Comparison of the relationship of seed mass with other plant’s functional traits between different parts of Western Ghats, India.
