@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Drone Photography | Aaryan Chhabra</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+
+<body>
+  <header class="wrap">
+    <div class="card">
+      <h1 style="margin:0 0 6px;">Drone Photography</h1>
+      <p class="muted" style="margin:0 0 14px;">
+        A small selection of drone photos. Click any image to view fullscreen.
+      </p>
+      <div class="links">
+        <a href="../">← Back to Home</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- Put your images in docs/gallery/photos/ -->
+    <div class="gallery" id="galleryGrid">
+      <figure>
+        <img src="photos/photo1.jpg" alt="Drone photo 1" loading="lazy" />
+        <figcaption>Caption (optional)</figcaption>
+      </figure>
+
+      <figure>
+        <img src="photos/photo2.jpg" alt="Drone photo 2" loading="lazy" />
+        <figcaption>Caption (optional)</figcaption>
+      </figure>
+
+      <figure>
+        <img src="photos/photo3.jpg" alt="Drone photo 3" loading="lazy" />
+        <figcaption>Caption (optional)</figcaption>
+      </figure>
+
+      <figure>
+        <img src="photos/photo4.jpg" alt="Drone photo 4" loading="lazy" />
+        <figcaption>Caption (optional)</figcaption>
+      </figure>
+    </div>
+  </main>
+
+  <!-- Fullscreen lightbox -->
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <button class="lightbox-close" id="lightboxClose" aria-label="Close">✕</button>
+    <img class="lightbox-img" id="lightboxImg" alt="" />
+  </div>
+
+  <script>
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImg = document.getElementById("lightboxImg");
+    const closeBtn = document.getElementById("lightboxClose");
+
+    // Open fullscreen on click
+    document.getElementById("galleryGrid").addEventListener("click", (e) => {
+      const img = e.target.closest("img");
+      if (!img) return;
+
+      lightboxImg.src = img.src;
+      lightboxImg.alt = img.alt || "Gallery image";
+      lightbox.classList.add("open");
+      lightbox.setAttribute("aria-hidden", "false");
+
+      // prevent background scroll
+      document.body.style.overflow = "hidden";
+    });
+
+    function closeLightbox() {
+      lightbox.classList.remove("open");
+      lightbox.setAttribute("aria-hidden", "true");
+      lightboxImg.src = "";
+      document.body.style.overflow = "";
+    }
+
+    // Close button
+    closeBtn.addEventListener("click", closeLightbox);
+
+    // Close when clicking outside image
+    lightbox.addEventListener("click", (e) => {
+      if (e.target === lightbox) closeLightbox();
+    });
+
+    // Close on ESC
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && lightbox.classList.contains("open")) {
+        closeLightbox();
+      }
+    });
+  </script>
+</body>
+</html>
