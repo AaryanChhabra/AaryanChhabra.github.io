@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Your Name</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="wrap">
+    <div class="hero">
+      <img class="avatar" src="assets/profile.jpg" alt="Your profile photo" />
+      <div>
+        <h1>Your Name</h1>
+        <p class="subtitle">Short one-liner: what you do + what you care about.</p>
+
+        <div class="links">
+          <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">GitHub</a>
+          <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a href="mailto:you@example.com">Email</a>
+          <a href="assets/Your_CV.pdf" target="_blank" rel="noreferrer">CV</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <h2>About</h2>
+      <p>
+        Write 3–5 lines about yourself. Keep it simple and specific.
+        Mention your focus, tools, interests, and what you’re looking for.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Projects</h2>
+      <div class="grid">
+        <article class="item">
+          <h3>Project title</h3>
+          <p>1–2 lines describing impact + what you built.</p>
+          <p class="meta">Tech: Python, R, React, etc.</p>
+          <a href="https://github.com/yourusername/project" target="_blank" rel="noreferrer">Code →</a>
+        </article>
+
+        <article class="item">
+          <h3>Project title</h3>
+          <p>1–2 lines describing impact + what you built.</p>
+          <p class="meta">Tech: …</p>
+          <a href="#">Demo →</a>
+        </article>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>© <span id="year"></span> Your Name</p>
+    </footer>
+  </main>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
